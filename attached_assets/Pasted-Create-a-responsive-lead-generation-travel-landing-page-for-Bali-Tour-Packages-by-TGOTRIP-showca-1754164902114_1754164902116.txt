@@ -1,0 +1,85 @@
+Create a responsive, lead-generation travel landing page for “Bali Tour Packages” by TGOTRIP, showcasing 6 curated travel plans. Include a sticky WhatsApp CTA, mobile-optimized layout, and a modern tropical design.
+
+🖼️ Hero Section
+Fullscreen background image (Bali beach, cliffs, or swing)
+
+Headline: “Discover Magical Bali”
+
+Subheadline: “Luxury, Adventure & Romance in One Trip”
+
+Lead Capture Form with:
+
+Name, Phone, Email, Travel Month, Pax
+
+CTA: “Get Free Quote”
+
+💼 Section: “Choose Your Bali Package”
+Add 6 package cards in a responsive grid (2–3 per row). Each card includes:
+
+✅ 4 Nights & 5 Days – Kuta
+Image: Kuta beach or market
+
+Inclusions Icons: 🏨 🍽️ 🚗 🗺️ (Hotel, Meal, Transfer, Sightseeing)
+
+Price: Starting at ₹12,999/- Per Person
+
+Button: View Itinerary / Book Now
+
+✅ 5 Nights & 6 Days – Kuta + Ubud
+Image: Tanah Lot or Ubud market
+
+Places Covered: Kuta 3N, Ubud 2N
+
+Inclusions Icons: Same
+
+Price: ₹18,999/- Per Person
+
+✅ 5 Nights & 6 Days – Kuta + Ubud with Pvt Pool Villa
+Image: Private pool villa
+
+Price: ₹26,999/- Per Person
+
+✅ 6 Nights & 7 Days – Kuta + Ubud with Pvt Pool Villa
+Image: Bali jungle pool view
+
+Price: ₹32,999/- Per Person
+
+✅ 6 Nights & 7 Days – Kuta + Gili + Ubud with Pvt Pool Villa
+Image: Gili Islands beach
+
+Price: ₹35,999/- Per Person
+
+✅ 7 Nights & 8 Days – Kuta + Gili + Nusa + Ubud with Pvt Pool Villa
+Image: Nusa Penida cliffs or boat tour
+
+Price: ₹45,999/- Per Person
+
+🖼️ Gallery Section
+Include 4–6 beautiful visuals of:
+
+Nusa Penida, Bali Swing, Private Villas, Ubud Rice Fields, Candlelight Dinner
+
+⭐ Customer Reviews
+2–3 testimonials with star ratings and traveler names/photos
+
+📲 WhatsApp CTA (Sticky)
+Floating WhatsApp button: https://wa.me/919792906666
+
+👣 Footer
+TGOTRIP logo
+
+Contact Email: info@tgotrip.com
+
+Phone: +91-9792906666
+
+Website: www.tgotrip.com
+
+Tagline: “Your Reliable Partner in Travel”
+
+🔧 Design Style:
+
+Clean, beachy color palette (turquoise, white, tan)
+
+Responsive layout
+
+Emphasis on pricing tiers, visual appeal, and ease of contact
